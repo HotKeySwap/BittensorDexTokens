@@ -1,0 +1,26 @@
+{
+  "name": "Bittensor EVM Token List",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+
+    {
+      "chainId": 964,
+      "address": "0x30a960c9D6C52f2A98Dc43D69a6a9d55cdAA88E9",
+      "name": "WTAO",
+      "symbol": "WTAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/HotKeySwap/BittensorDexTokens/5eca32abb418148ab136f5876bf2d22889f011fa/assets/0x30a960c9D6C52f2A98Dc43D69a6a9d55cdAA88E9.png"
+    }
+  ]
+}
