@@ -1,5 +1,5 @@
 {
-  "name": "Bittensor EVM Token List",
+  "name": "Bittensor EVM Token List Testnet",
   "timestamp": "2023-01-21T23:57:10.982Z",
   "version": {
     "major": 2,
@@ -15,7 +15,7 @@
   "tokens": [
 
     {
-      "chainId": 964,
+      "chainId": 945,
       "address": "0x5263738a73CB51b95f789dd035493A80672372B7",
       "name": "WTAO",
       "symbol": "WTAO",
