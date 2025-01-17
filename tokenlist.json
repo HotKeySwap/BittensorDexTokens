@@ -1,6 +1,6 @@
 {
-  "name": "Bittensor EVM Token List",
-  "timestamp": "2023-01-21T23:57:10.982Z",
+  "name": "Subtensor EVM Token List",
+  "timestamp": "2025-01-17T00:00:00.000Z",
   "version": {
     "major": 2,
     "minor": 0,
@@ -10,6 +10,8 @@
   "logoURI": "",
   "keywords": [
     "uniswap",
+    "hotkeyswap",
+    "subtensorevm",
     "default"
   ],
   "tokens": [
@@ -20,7 +22,23 @@
       "name": "WTAO",
       "symbol": "WTAO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/HotKeySwap/BittensorDexTokens/5eca32abb418148ab136f5876bf2d22889f011fa/assets/0x30a960c9D6C52f2A98Dc43D69a6a9d55cdAA88E9.png"
+      "logoURI": "https://raw.githubusercontent.com/HotKeySwap/BittensorDexTokens/main/assets/0x272b921417197905b5a2736cadadbd842586ac6b.png"
+    },
+    {
+      "chainId": 964,
+      "address": "0x021De344c588077688589131C81b1dC9911Ed1b2",
+      "name": "TAODOG",
+      "symbol": "TAODOG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/HotKeySwap/BittensorDexTokens/main/assets/0x021De344c588077688589131C81b1dC9911Ed1b2.png"
+    },
+    {
+      "chainId": 964,
+      "address": "0xd3C87EEfEFeaB34F305062fee81B8710d903EbB0",
+      "name": "Tao Pill",
+      "symbol": "TPILL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/HotKeySwap/BittensorDexTokens/main/assets/0xd3C87EEfEFeaB34F305062fee81B8710d903EbB0.png"
     }
   ]
 }
